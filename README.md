@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Looziolooz (Lorenzo)
 - 👀 I’m interested in cooking, hiking
-- 🌱 I’m currently learning web development at Technigo
+- 🌱 I’m currently learning web development
