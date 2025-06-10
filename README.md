@@ -1,10 +1,12 @@
 <h1>Hi 👋😊, I'm Lorenzo</h1>
 <h2>An Italian frontend developer living in Sweden 💛💙</h2>
 
-🌱 I’m currently learning ReacJs 
+🎯 Passionate about turning ideas into sleek, responsive web experiences.
 
-🤝 I’m looking for internship workplace
+🌱 Currently diving deeper into the React.js ecosystem — always hungry to learn and grow.
 
+🤝 Actively seeking a frontend internship where I can contribute, collaborate, and continue leveling up.
+ 
 👨‍💻 All of my projects are available at https://lorenzodastoli.netlify.app/
 
 📫 How to reach me lorenzo.dastoli@gmail.com
