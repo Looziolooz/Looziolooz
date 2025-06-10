@@ -12,5 +12,3 @@
 📫 How to reach me lorenzo.dastoli@gmail.com
 
 📄 Know about my experiences https://www.linkedin.com/in/lorenzo-dastoli/
-
-⚡My strengths Perseverance - Quick Learner - Problem Solver
