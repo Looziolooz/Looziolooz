@@ -3,7 +3,7 @@
 
 🎯 Passionate about turning ideas into sleek, responsive web experiences.
 
-🌱 Currently diving deeper into the React.js ecosystem — always hungry to learn and grow.
+🌱 Currently diving deeper into the Next.js ecosystem — always hungry to learn and grow.
 
 🤝 Actively seeking a frontend internship where I can contribute, collaborate, and continue leveling up.
  
